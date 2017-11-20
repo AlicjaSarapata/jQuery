@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+}
+.main-nav {
+	position: fixed;
+	top: 0;
+	height: 50px;
+	background-color: #000;
+	width: 100%;
+	transition: all .4s;
+	z-index: 1;
+}
+#first {
+	height: 50vh;
+	background: blue;
+}
+#first p {
+	margin: 0;
+	color: #FFF;
+}
+#css_method p {
+	color: blue;
+	font-size: 20px;
+}
